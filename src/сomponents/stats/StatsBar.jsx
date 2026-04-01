@@ -1,4 +1,4 @@
-import { formatTime } from "../../utils/puzzel"
+
 
 export default function StatsBar({ moves, seconds, won }) {
     return (
